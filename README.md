@@ -2,10 +2,6 @@
   <span style="font-family: 'Dancing Script', cursive; font-size: 50px; color: pink;">
     Hello! I'm Seçil
   </span>
-  <!-- <br />
-  <span style="font-family: 'Dancing Script', cursive; font-size: 20px; color: purple;">
-     :)
-  </span> -->
 </p>
 
 ## About Me
@@ -20,4 +16,4 @@
 
 ## Most Used Languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssecill&layout=donut-vertical&theme=synthwave&hide_progress=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssecill&layout=compact&theme=synthwave)
