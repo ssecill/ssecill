@@ -1,7 +1,5 @@
 <p align="center">
-  <span style="font-family: 'Dancing Script', cursive; font-size: 50px; color: pink;">
-    Hello! I'm Seçil
-  </span>
+  <img src="https://via.placeholder.com/800x200/FF69B4/000000?text=Hello!+I'm+Seçil" alt="Hello! I'm Seçil" style="border: none;">
 </p>
 
 ## About Me
