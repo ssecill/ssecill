@@ -1,7 +1,7 @@
-<p align="center">
+<!-- <p align="center">
   <img src="hello_im_secil.png" alt="Hello! I'm Secil" style="border: none;">
 </p>
-
+-->
 ## About Me
 
 - 🎓 KTUCENG
