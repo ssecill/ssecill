@@ -7,4 +7,4 @@
 
   
 ## İstatistiklerim
-![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=ssecill&show_icons=true&theme=radical)
+![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=ssecill&show_icons=true&theme=tokyonight)
