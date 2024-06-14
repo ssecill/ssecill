@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/800x200/FF69B4/000000?text=Hello!+I'm+Secil&font-size=14" alt="Hello! I'm Secil" style="border: none;">
+  <img src="hello_im_secil.png" alt="Hello! I'm Secil" style="border: none;">
 </p>
 
 ## About Me
