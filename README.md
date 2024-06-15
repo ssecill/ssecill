@@ -6,6 +6,13 @@
 - 🎓 KTUCENG
 - 💼 VNGRS
 
+## Certifications
+
+- **AWS Certified SysOps Administrator – Associate**
+- **AWS Certified Solutions Architect – Associate**
+- **Microsoft Certified: Azure Administrator Associate**
+- **HashiCorp Certified: Terraform Associate (003)**
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssecill&label=Profile%20views&color=0e75b6&style=flat" alt="ssecill" /> </p>
 
 <p align="left"> <a href="https://twitter.com/secilns" target="blank"><img src="https://img.shields.io/twitter/follow/secilns?logo=twitter&style=for-the-badge" alt="secilns" /></a> </p>
