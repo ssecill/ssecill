@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Secil</h1>
-<h3 align="center">I'm Cloud & Devops Engineer</h3>
+<h3 align="center">I'm Cloud & DevOps Engineer</h3>
 
 ## About Me
 
