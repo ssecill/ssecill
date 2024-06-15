@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Secil</h1>
+<h1 align="center">Hi 👋, I'm Seçil</h1>
 <h3 align="center">I'm Cloud & DevOps Engineer</h3>
 
 ## About Me
